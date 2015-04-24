@@ -3,6 +3,8 @@
 ### Author - Ankur Thakkar
 ### description of run_analysis.R script
 
+* Before running the script please add data with folder UCI HAR Dataset to your working directory
+
 * First all required librarys are loaded, here only dplyr library will be required.
 
 * Test data set is loaded(X_test, y_test, subject_test) - using read.table.
